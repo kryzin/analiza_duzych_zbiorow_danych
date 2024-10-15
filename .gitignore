@@ -1,3 +1,5 @@
 *.parquet
 .venv
 .csv
+data/
+default_df.csv
